@@ -7,7 +7,8 @@
       "openFiles": [
         "README.md",
         "streamlit_app.py",
-        "pages"
+        "pages",
+        "pages/01_check.py"
       ]
     },
     "vscode": {
